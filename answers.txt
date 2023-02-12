@@ -2,3 +2,7 @@ What is the difference between a merge and a rebase?
 "Merging is a safer option that preserves the entire history of your repository, 
 while rebasing creates a linear history by moving your feature branch onto the tip of main"
 Source: https://www.atlassian.com/git/tutorials/merging-vs-rebasing#:~:text=Merging%20is%20a%20safe%20option,onto%20the%20tip%20of%20main%20.
+
+What is a remote repository? 
+"Remote repositories are versions of your project that are hosted on the Internet or network somewhere"
+Source: https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes#:~:text=Remote%20repositories%20are%20versions%20of,or%20read%2Fwrite%20for%20you.
